@@ -1,0 +1,9 @@
+body{
+    background: black url("https://www.freeiconspng.com/uploads/guitar-instrument-music-icon-6.png");
+}
+.navbar{
+    border-radius: 0;
+}
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}
